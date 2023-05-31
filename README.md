@@ -1,2 +1,2 @@
 # Logfrem
-Horizontally scalable NoSQL database
+AI for logs
